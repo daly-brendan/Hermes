@@ -48,7 +48,7 @@ const Form = () => {
 
     return (
         <div className='page create'>
-            <form onSubmit={handleSubmit}>
+            <form action={handleSubmit}>
                 <label htmlFor='run_name' className='font-medium'> Give your run a name!:</label><br></br>
                 <input
                     type = 'text'
