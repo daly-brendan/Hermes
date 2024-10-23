@@ -8,3 +8,6 @@ As ofd 10.23.24 I have it working to the point where the web-app communicates wi
 - Publish
 - Add a dashboard feature
 - Add Users
+
+## 10.24 Deployment
+Deployment URL - https://hermes-ten-silk.vercel.app/
