@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d2da03b7.css","mappings":"AAAA,cAAc,CACd,oBAAoB,CACpB,mBAAmB,CAEnB,YACI,KACI,uBACJ,CACJ","sources":["styles/tailwind.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\n@layer base {\n    html {\n        font-family: Inconsolata;\n    }\n}"],"names":[],"sourceRoot":""}

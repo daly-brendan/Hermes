@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hermes/static/css/main.d2da03b7.css",
+    "main.js": "/hermes/static/js/main.e8e961e7.js",
+    "static/js/198.445cd537.chunk.js": "/hermes/static/js/198.445cd537.chunk.js",
+    "index.html": "/hermes/index.html",
+    "main.d2da03b7.css.map": "/hermes/static/css/main.d2da03b7.css.map",
+    "main.e8e961e7.js.map": "/hermes/static/js/main.e8e961e7.js.map",
+    "198.445cd537.chunk.js.map": "/hermes/static/js/198.445cd537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2da03b7.css",
+    "static/js/main.e8e961e7.js"
+  ]
+}
