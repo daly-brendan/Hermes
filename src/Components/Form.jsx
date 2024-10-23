@@ -12,7 +12,7 @@ const Form = () => {
 
     
 
-    const handleSubmit = async (event: React.SyntheticEvent<HTMLFormElement>) => {
+    const handleSubmit = async (e) => {
         e.preventDefault()
         
         
